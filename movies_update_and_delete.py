@@ -1,4 +1,7 @@
 
+#Rachel Nelson
+#Assignment 8.2
+#02/12/23
 
 import mysql.connector
 
